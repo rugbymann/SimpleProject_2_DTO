@@ -1,0 +1,11 @@
+
+£
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Üú‹µúÿÿÿÿ8‚Ô¸¤Ž1
+W	java:S125/"<This block of commented-out lines of code should be removed.(™ÂÞ(8ŠÔ¸¤Ž1
+H
+java:S1168P"+Return an empty collection instead of null.(¥¹ï8‹Ô¸¤Ž1
+s
+java:S2159Z"VRemove this call to "equals"; comparisons between unrelated types always return false.(ÒåÃÍ8Ô¸¤Ž1
+]	java:S125h"<This block of commented-out lines of code should be removed.(‘ÇÉ¨ûÿÿÿÿ8Ô­»¤Ž1
+V
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8Õ­»¤Ž1

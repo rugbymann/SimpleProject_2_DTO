@@ -1,0 +1,15 @@
+Margarita|small|6.00
+Margarita|middle|9.00
+Margarita|family|12.00
+Funghi|small|7.00
+Funghi|middle|10.50
+Funghi|family|14.00
+Salami|small|7.90
+Salami|middle|12.00
+Salami|family|15.50
+Prosciutto|small|8.00
+Prosciutto|middle|13.10
+Prosciutto|family|16.50
+FruttiDiMare|small|8.70
+FruttiDiMare|middle|13.90
+FruttiDiMare|family|16.50

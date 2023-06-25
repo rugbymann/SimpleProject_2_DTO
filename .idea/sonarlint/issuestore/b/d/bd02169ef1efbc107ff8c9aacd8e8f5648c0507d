@@ -1,0 +1,41 @@
+
+g
+java:S1192_"JDefine a constant instead of duplicating this literal "Margarita" 3 times.(âƒÿ8Æ½¤1
+j
+java:S1192k"MDefine a constant instead of duplicating this literal "FruttiDiMare" 3 times.(ß³ôü8Æ½¤1
+m
+java:S1192h"KDefine a constant instead of duplicating this literal "Prosciutto" 3 times.(ëÜÇÔıÿÿÿÿ8Æ½¤1
+d
+java:S1192a"GDefine a constant instead of duplicating this literal "FAMILY" 5 times.(Ò“ã8Æ½¤1
+c
+java:S1192_"FDefine a constant instead of duplicating this literal "SMALL" 5 times.(âƒÿ8Ç½¤1
+d
+java:S1192e"GDefine a constant instead of duplicating this literal "Salami" 3 times.(¸‘Ï•8Ç½¤1
+d
+java:S1192`"GDefine a constant instead of duplicating this literal "MIDDLE" 5 times.(¨É…ê8Ç½¤1
+i
+java:S1192b"GDefine a constant instead of duplicating this literal "Funghi" 3 times.(ÆŞ‚óûÿÿÿÿ8Ç½¤1
+c
+java:S2259R"GA "NullPointerException" could be thrown; "madeOrder" is nullable here.(‘ªt8±€û¤1
+\
+java:S1854"@Remove this useless assignment to local variable "usersService".(·“›`8í½¤1
+M
+java:S1481"1Remove this unused "usersService" local variable.(·“›`8ñ½¤1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áà•æûÿÿÿÿ8ò½¤1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ëÊÿÿÿÿÿ8ò½¤1
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(’ÿš8ô½¤1
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(­Ó‘8õ½¤1
+T
+java:S1135)"2Complete the task associated to this TODO comment.(•ÁòÊıÿÿÿÿ8ô½¤1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(ÆÀûı8÷½¤1
+X	java:S1255"<This block of commented-out lines of code should be removed.(Úî‘Â8÷½¤1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(åÈ®·ÿÿÿÿÿ8ø½¤1
+X	java:S125="<This block of commented-out lines of code should be removed.(–ˆÈÌ8ø½¤1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ÃõÁùÿÿÿÿ8ø½¤1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(›¸üïıÿÿÿÿ8ú½¤1
+X	java:S125H"<This block of commented-out lines of code should be removed.(ìÛ‹ô8ù½¤1
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(’¾õı8ú½¤1
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ş±ĞĞøÿÿÿÿ8ú½¤1
+]	java:S125M"<This block of commented-out lines of code should be removed.(­ë†Öÿÿÿÿÿ8ú½¤1
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(‡®Ï´8ü½¤1
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(İşûùÿÿÿÿ8°Ì¾¤1
