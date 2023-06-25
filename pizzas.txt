@@ -1,0 +1,15 @@
+1|Margarita|SMALL|6.0
+2|Margarita|MIDDLE|9.0
+3|Margarita|FAMILY|12.0
+4|Funghi|SMALL|7.0
+5|Funghi|MIDDLE|10.5
+6|Funghi|FAMILY|14.0
+7|Salami|SMALL|7.9
+8|Salami|MIDDLE|12.0
+9|Salami|FAMILY|15.5
+10|Prosciutto|SMALL|8.0
+11|Prosciutto|MIDDLE|13.1
+12|Prosciutto|FAMILY|16.5
+13|FruttiDiMare|SMALL|8.7
+14|FruttiDiMare|MIDDLE|13.9
+15|FruttiDiMare|FAMILY|16.5
